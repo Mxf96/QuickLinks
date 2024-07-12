@@ -13,6 +13,10 @@
 - [Outils en Ligne](https://mxf96.github.io/Outils-en-Ligne/)
 - [AzerType](https://mxf96.github.io/AzerType/)
 
+## Démo
+
+Vous pouvez consulter le site **QuickLinks** en ligne à l'adresse suivante : [QuickLinks](https://mxf96.github.io/QuickLinks/)
+
 ## Prérequis
 
 Aucun prérequis particulier n'est nécessaire pour utiliser ce projet.
